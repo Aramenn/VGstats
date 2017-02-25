@@ -1,0 +1,2 @@
+# VGstats
+Vainglory statistics
